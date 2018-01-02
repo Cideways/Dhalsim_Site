@@ -1,0 +1,48 @@
+body {
+  background-image: url('https://i.imgur.com/6KRiXsl.jpg');
+  background-color: #f4c460;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+h2,a {
+  font-style: italic;
+  color: darkorange;
+}
+a:visited {
+  color: brown;
+}
+a:hover {
+  color: #ff0000;
+}
+/* Which other pseudo-classes? */
+h1 {
+  margin-top: 10px;
+  font-family: 'Aclonica';
+  text-align:center;
+  color: brown;
+}
+h2 {
+  font-family:'Aclonica';
+  text-align:center;
+  color: darkorange;
+}
+#ability-images figure {
+  font-family:'Aclonica';
+  text-align:center;
+}
+#ability-images img {
+  height:135px;
+  width:auto;
+}
+#SFVlook {
+  display:block;
+  margin:auto;
+  margin-bottom:20px;
+  height:auto;
+  max-width:100%;
+}
+iframe {
+  display:block;
+  margin:auto;
+  margin-top:20px;
+}
